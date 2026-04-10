@@ -12,3 +12,4 @@ This README will be updated as we add code, tests, documentation, and other proj
 
 ## Team
 [View our team page](admin/team.md)
+[Team website link](https://cse110-sp26-group09.github.io/cse110-sp26-group09/admin/team.html)
