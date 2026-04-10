@@ -1,7 +1,7 @@
 # Group 09 - Akatsuki
 
 <p align="center">
-  <img src="../branding/brand-logo.jpg" alt="Akatsuki Logo" width="170">
+  <img src="./branding/brand-logo.jpg" alt="Akatsuki Logo" width="170">
 </p>
 
 <p align="center"><strong>Strong individuals. One coordinated team.</strong></p>
@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 
 <p align="center">
-  <img src="../branding/slack-profile-picture.jpg" alt="Akatsuki Banner" width="680">
+  <img src="./branding/slack-profile-picture.jpg" alt="Akatsuki Banner" width="680">
 </p>
 
 ---
