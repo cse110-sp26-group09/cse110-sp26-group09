@@ -11,5 +11,5 @@ This repository is the main source of truth for our CSE 110 group project.
 This README will be updated as we add code, tests, documentation, and other project artifacts.
 
 ## Team
-[View our team page](admin/team.md)
-[Team website link](https://cse110-sp26-group09.github.io/cse110-sp26-group09/admin/team.html)
+- [View our team page](admin/team.md)
+- [Team website link](https://cse110-sp26-group09.github.io/cse110-sp26-group09/admin/team.html)
