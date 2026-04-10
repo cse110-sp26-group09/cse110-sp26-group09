@@ -5,7 +5,7 @@
 **Meeting Type:** Kickoff Meeting  
 **Date:** 04/10/26  
 **Start Time:** 1:00 PM  
-**End Time:** 2:10 PM  
+**End Time:** 2:20 PM  
 **Location:** Zoom  
 **Recorded By:** Aditya Jadhav
 
@@ -22,12 +22,11 @@
 - Jason Nguyen
 - Daniel Wu
 - Woosik Kim
-
+- Fahad Majidi
+- James Villanueva
 
 ### Members Absent
 - Josh Victoria
-- Fahad Majidi
-- James Villanueva
 
 ---
 
@@ -72,7 +71,7 @@ The purpose of this kickoff meeting is to establish team expectations, review th
 
 ### Topic 4: Team bonding exercise
 - Summary of discussion:
-  - The team will play a game at the end of the meeting as part of the bonding assignment.
+  - The team will play the Imposter Game at the end of the meeting as part of the bonding assignment.
   - The activity will also allow the team to take a screenshot for submission purposes.
 
 ### Topic 5: Next steps
@@ -93,15 +92,13 @@ The purpose of this kickoff meeting is to establish team expectations, review th
 - **Decision:** The team will play a game at the end of the meeting for the bonding exercise.
 - **Reasoning:** This satisfies the assignment requirement and gives the group a chance to interact in a more relaxed setting.
 - **Dissenting Opinions:** None 
-- **Final Outcome:** The group agreed to include the game as the final part of the meeting.
+- **Final Outcome:** The group agreed to include the imposter game as the final part of the meeting.
 
 ---
 
 ## 7. Items Not Discussed / Deferred to Next Meeting
 - Final role assignments if not completed during this meeting
-- Any unfinished contract edits
 - Additional project planning details
-- Follow-up tasks for team page and documentation
 
 ---
 
@@ -113,13 +110,13 @@ The purpose of this kickoff meeting is to establish team expectations, review th
 | Decide weekly meeting time | All members | 04/10/26 | Choose a time that works for the group |
 | Assign roles and responsibilities | All members | 04/10/26 | Can be adjusted later if needed |
 | Participate in bonding activity | All members | 04/10/26 | Take screenshot for assignment |
-| Update meeting notes and repo docs | [Name] | 04/10/26 | Record decisions and next steps |
+| Update meeting notes and repo docs | Aditya Jadhav | 04/10/26 | Record decisions and next steps |
 
 ---
 
 ## 9. Next Meeting
-**Date:** TBD 
-**Time:** TBD
+**Date:**  04/17/2026
+**Time:** 2:00pm
 **Location:** Zoom / In-person
 
 **Planned Topics:**
@@ -131,4 +128,4 @@ The purpose of this kickoff meeting is to establish team expectations, review th
 ---
 
 ## 10. Meeting Adjournment
-The meeting concluded at **2:10 PM**.
+The meeting concluded at **2:20 PM**.
