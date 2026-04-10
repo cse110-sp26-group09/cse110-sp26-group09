@@ -9,3 +9,6 @@ This repository is the main source of truth for our CSE 110 group project.
 - `specs/` - project specifications and related documents
 
 This README will be updated as we add code, tests, documentation, and other project artifacts.
+
+## Team
+[View our team page](admin/team.md)
