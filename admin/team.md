@@ -59,79 +59,79 @@ Like our name suggests, we value the idea that different individuals with differ
 
 ___
 
-### Aditya
-- [Aditya's GitHub](https://github.com/AdityaJadhav17)
-- [Aditya's Portfolio](https://adityajadhav17.github.io/)
+### Aditya Jadhav
+- [Github](https://github.com/AdityaJadhav17)
+- [Portfolio](https://adityajadhav17.github.io/)
 - Hobbies: Cooking, playing soccer, playing video games, and spending time with friends and family.
 
 ___
 
-### Alexis
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Alexis Navarrete
+- [Github](https://github.com/AlexNav28)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
 
 ___
 
-### Daniel
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Daniel Wu
+- [Github](https://github.com/dwu0501)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
 
 ___
 
-### Fahad
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Fahad Majidi
+- [Github](Add here)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
   
 ___
 
-### Hemendra
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Hemendra Ande
+- [Github](https://github.com/draande)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
 
 ___
 
-### Hien
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Hien Tran
+- [Github](https://github.com/tmhiennn)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
   
 ___
 
-### Hieu
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Hieu Le
+- [Github](https://github.com/hieule314)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
   
 ___
 
-### James
-- GitHub: [James' GitHub](https://github.com/JamesVillanueva-Dev)
-- Portfolio: [James' Portfolio](https://github.com/JamesVillanueva-Dev)
-- Fun fact / Hobby: Playing video games
+### James Villanueva
+- [GitHub](https://github.com/JamesVillanueva-Dev)
+- [Portfolio](https://github.com/JamesVillanueva-Dev)
+- Hobbies: Playing video games
 
 ___
 
-### Jason
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Jason Nguyen
+- [Github](https://github.com/J-rod-mech)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
   
 ___
 
-### Josh
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Josh Victoria
+- [Github](https://github.com/Dez-catus)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
 
 ___
 
-### Woosik
-- GitHub: [Add link here]
-- Portfolio: [Add short intro]
-- Fun fact / Hobby: [Add here]
+### Woosik Kim
+- [Github](https://github.com/woosik-study)
+- [Portfolio](Add link here)
+- Hobbies: [Add here]
 
 ___
