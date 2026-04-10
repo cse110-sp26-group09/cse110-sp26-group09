@@ -33,7 +33,9 @@ Hieu:
 
 ___
 
-James: https://github.com/JamesVillanueva-Dev
+James: 
+
+[James' Github](https://github.com/JamesVillanueva-Dev)
 
 [James' Portfolio](https://github.com/JamesVillanueva-Dev)
 
