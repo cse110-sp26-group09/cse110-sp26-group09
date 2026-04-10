@@ -1,11 +1,11 @@
 # Group 09 - Akatsuki
 
 <p align="center">
-  <img src="../branding/brand-logo.jpg" alt="Akatsuki Logo" width="250">
+  <img src="./branding/brand-logo.jpg" alt="Akatsuki Logo" width="250">
 </p>
 
 <p align="center">
-  <img src="../branding/slack-profile-picture.jpg" alt="Akatsuki Team Banner" width="800">
+  <img src="./branding/slack-profile-picture.jpg" alt="Akatsuki Team Banner" width="800">
 </p>
 
 ## Team Values
