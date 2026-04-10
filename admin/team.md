@@ -19,8 +19,14 @@ Hieu:
 
 James: https://github.com/JamesVillanueva-Dev
 
+[James' Portfolio](https://github.com/JamesVillanueva-Dev)
+
+Hobbies: Playing video games
+
 Jason:
 
 Josh:
 
 Woosik:
+
+Team Values:
