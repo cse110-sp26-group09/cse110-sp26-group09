@@ -1,58 +1,95 @@
 # Group 09 - Akatsuki
-![Brand picture](branding/banner-front-side.jpeg)
 
-## Group Members:
+<p align="center">
+  <img src="../branding/brand-logo.jpg" alt="Akatsuki Logo" width="250">
+</p>
 
-___
+<p align="center">
+  <img src="../branding/slack-profile-picture.jpg" alt="Akatsuki Team Banner" width="800">
+</p>
 
-Aditya:
+## Team Values
 
-___
+- **Unity through different strengths**  
+  Every member brings unique skills, ideas, and perspectives, and we value combining those strengths to build better solutions together.
 
-Alexis:
+- **Accountability to the team**  
+  Each person is responsible for their work, deadlines, and communication so the whole team can move forward smoothly.
 
-___
+- **Clear and honest communication**  
+  Strong teams rely on transparency, so we commit to asking questions early, sharing progress openly, and addressing blockers directly.
 
-Daniel:
+- **Discipline and consistency**  
+  Good software is built through steady effort, attention to detail, and following through on commitments.
 
-___
+- **Growth through challenge**  
+  We see mistakes, bugs, and setbacks as opportunities to improve both individually and as a team.
 
-Fahad:
+- **Respect for every role**  
+  No contribution is too small. Planning, coding, documenting, testing, and reviewing all matter to the success of the project.
 
-___
+- **Strategic collaboration**  
+  Like a well-coordinated team, we aim to work smart by dividing responsibilities clearly, supporting one another, and aligning on shared goals.
 
-Hemendra:
+- **Adaptability under pressure**  
+  When plans change or problems come up, we stay flexible, solution-oriented, and focused on progress.
 
-___
+- **Quality over shortcuts**  
+  We value thoughtful work, clean code, and reliable solutions rather than rushing incomplete or careless results.
 
-Hien:
+- **Shared vision**  
+  We work as one team with one goal: to create a project we can all be proud of.
 
-___
-
-Hieu:
-
-___
-
-James: 
-
-[James' Github](https://github.com/JamesVillanueva-Dev)
-
-[James' Portfolio](https://github.com/JamesVillanueva-Dev)
-
-James' Hobbies: Playing video games
-
-___
-
-Jason:
+## Group Roster
 
 ___
 
-Josh:
+### Aditya
+- [Aditya' GitHub](https://github.com/AdityaJadhav17)
+- [Aditya' Portfolio](https://adityajadhav17.github.io/)
+- Hobbies: Cooking, playing soccer, playing video games, and spending time with friends and family.
+___
+
+### Alexis
 
 ___
 
-Woosik:
+### Daniel
 
 ___
 
-## Team Values:
+### Fahad
+
+___
+
+### Hemendra
+
+___
+
+### Hien
+
+___
+
+### Hieu
+
+___
+
+### James
+
+- [James' GitHub](https://github.com/JamesVillanueva-Dev)
+- [James' Portfolio](https://github.com/JamesVillanueva-Dev)
+- Hobbies: Playing video games
+
+___
+
+### Jason
+
+___
+
+### Josh
+
+___
+
+### Woosik
+
+___
