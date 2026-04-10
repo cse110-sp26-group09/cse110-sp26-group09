@@ -81,9 +81,9 @@ ___
 ___
 
 ### Fahad Majidi
-- [Github](Add here)
-- [Portfolio](Add link here)
-- Hobbies: [Add here]
+- [Github](https://github.com/Slazki)
+- [Portfolio](https://www.linkedin.com/in/fahadmajidi)
+- Hobbies: Soccer, gaming, time with friends & family, playing with parrot, and watching shows/movies.
   
 ___
 
