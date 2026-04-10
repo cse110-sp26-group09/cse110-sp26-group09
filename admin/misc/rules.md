@@ -67,7 +67,8 @@ To keep the team organized, we may assign roles such as coordinator, note taker,
 
 General responsibilities for all team members include:
 
-- Attending meetings whenever reasonably possible
+- Make a good-faith effort to attend all team meetings
+- Arrive on time and communicate in advance if you expect to be late or absent
 - Completing assigned tasks by the agreed deadline
 - Communicating promptly if a delay or issue comes up
 - Contributing to team discussions, planning, and decision-making
@@ -102,7 +103,7 @@ If urgent decisions are needed, team members who are available will communicate 
 
 To make meetings productive, we agree to:
 
-- Arrive on time whenever possible
+- Attend team meetings consistently and arrive on time whenever possible
 - Come prepared with updates, questions, or completed work
 - Stay engaged and respectful during discussions
 - Keep meetings focused on agenda items and project needs
@@ -179,14 +180,14 @@ By signing below, each team member acknowledges that they have read, understood,
 
 | Team Member | Signature | Date |
 |---|---|---|
-| Aditya | ________________________ | __________________ |
-| Alexis | ________________________ | __________________ |
-| Daniel | ________________________ | __________________ |
-| Fahad | ________________________ | __________________ |
-| Hemendra | ________________________ | __________________ |
-| Hien | ________________________ | __________________ |
-| Hieu | ________________________ | __________________ |
-| James | ________________________ | __________________ |
-| Jason | ________________________ | __________________ |
-| Josh | ________________________ | __________________ |
-| Woosik | ________________________ | __________________ |
+| Aditya | ____Aditya Jadhav____ | ____04/10/2026____ |
+| Alexis | ____Alexis Navarette____ | ____04/10/2026____ |
+| Daniel | ____Daniel Wu____ | ____04/10/2026____ |
+| Fahad | ____Fahad Majidi____ | ____04/10/2026____ |
+| Hemendra | ____Hemendra Ande____ | ____04/10/2026____ |
+| Hien | ____Hien Tran____ | ____04/10/2026____ |
+| Hieu | ____Hieu Le____ | ____04/10/2026____ |
+| James | ____James Villanueva____ | ____04/10/2026____ |
+| Jason | ____Jason Nguyen____ | ____04/10/2026____ |
+| Josh | ____Josh Victoria____ | ____04/10/2026____ |
+| Woosik | ____Woosik Kim____ | ____04/10/2026____ |
