@@ -45,8 +45,8 @@
 ___
 
 ### Aditya
-- [Aditya' GitHub](https://github.com/AdityaJadhav17)
-- [Aditya' Portfolio](https://adityajadhav17.github.io/)
+- [Aditya's GitHub](https://github.com/AdityaJadhav17)
+- [Aditya's Portfolio](https://adityajadhav17.github.io/)
 - Hobbies: Cooking, playing soccer, playing video games, and spending time with friends and family.
 ___
 
