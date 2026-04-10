@@ -2,14 +2,25 @@
 ![Brand picture](branding/banner-front-side.jpeg)
 
 ## Group Members:
-Aditya: 
+
+Aditya:
+
 Alexis:
+
 Daniel:
+
 Fahad:
+
 Hemendra:
+
 Hien:
+
 Hieu:
-James:
+
+James: https://github.com/JamesVillanueva-Dev
+
 Jason:
+
 Josh:
+
 Woosik:
