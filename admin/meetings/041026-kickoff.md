@@ -16,19 +16,19 @@
 ### Members Present
 - Aditya Jadhav
 - Alexis Navarrete
-- Fahad Majidi
 - Hemendra Ande
 - Hien Tran
 - Hieu Le
-- James Villanueva
 - Jason Nguyen
+- Daniel Wu
+- Woosik Kim
 
 
 ### Members Absent
 - Josh Victoria
-- Woosik Kim
-- Daniel Wu
-  
+- Fahad Majidi
+- James Villanueva
+
 ---
 
 ## 2. Meeting Purpose
