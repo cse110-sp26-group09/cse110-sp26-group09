@@ -1,12 +1,23 @@
+<div align="center">
+
 # Group 09 - Akatsuki
 
-<p align="center">
-  <img src="./branding/brand-logo.jpg" alt="Akatsuki Logo" width="250">
-</p>
+<img src="./branding/brand-logo.jpg" alt="Akatsuki Logo" width="180">
 
-<p align="center">
-  <img src="./branding/slack-profile-picture.jpg" alt="Akatsuki Team Banner" width="800">
-</p>
+### Strong individuals. One coordinated team.
+
+<img src="./branding/slack-profile-picture.jpg" alt="Akatsuki Banner" width="700">
+
+</div>
+
+---
+
+## Team Identity
+
+Akatsuki is a team built on collaboration, discipline, and adaptability.  
+Like our name suggests, we value the idea that different individuals with different strengths can come together to create something powerful, well-coordinated, and memorable.
+
+---
 
 ## Team Values
 
@@ -40,6 +51,8 @@
 - **Shared vision**  
   We work as one team with one goal: to create a project we can all be proud of.
 
+---
+
 ## Group Roster
 
 ___
@@ -48,48 +61,75 @@ ___
 - [Aditya's GitHub](https://github.com/AdityaJadhav17)
 - [Aditya's Portfolio](https://adityajadhav17.github.io/)
 - Hobbies: Cooking, playing soccer, playing video games, and spending time with friends and family.
+
 ___
 
 ### Alexis
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
 
 ___
 
 ### Daniel
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
 
 ___
 
 ### Fahad
-
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
+  
 ___
 
 ### Hemendra
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
 
 ___
 
 ### Hien
-
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
+  
 ___
 
 ### Hieu
-
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
+  
 ___
 
 ### James
-
-- [James' GitHub](https://github.com/JamesVillanueva-Dev)
-- [James' Portfolio](https://github.com/JamesVillanueva-Dev)
-- Hobbies: Playing video games
+- GitHub: [James' GitHub](https://github.com/JamesVillanueva-Dev)
+- Portfolio: [James' Portfolio](https://github.com/JamesVillanueva-Dev)
+- Fun fact / Hobby: Playing video games
 
 ___
 
 ### Jason
-
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
+  
 ___
 
 ### Josh
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
 
 ___
 
 ### Woosik
+- GitHub: [Add link here]
+- Portfolio: [Add short intro]
+- Fun fact / Hobby: [Add here]
 
 ___
