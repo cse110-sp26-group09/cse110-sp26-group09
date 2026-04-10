@@ -1,4 +1,4 @@
-# Group 9
+# Group 09 - Akatsuki
 ![Brand picture](branding/banner-front-side.jpeg)
 
 ## Group Members:
