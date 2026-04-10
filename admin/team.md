@@ -1,14 +1,16 @@
-<div align="center">
-
 # Group 09 - Akatsuki
 
-<img src="./branding/brand-logo.jpg" alt="Akatsuki Logo" width="180">
+<p align="center">
+  <img src="../branding/brand-logo.jpg" alt="Akatsuki Logo" width="170">
+</p>
 
-### Strong individuals. One coordinated team.
+<p align="center"><strong>Strong individuals. One coordinated team.</strong></p>
 
-<img src="./branding/slack-profile-picture.jpg" alt="Akatsuki Banner" width="700">
+<p>&nbsp;</p>
 
-</div>
+<p align="center">
+  <img src="../branding/slack-profile-picture.jpg" alt="Akatsuki Banner" width="680">
+</p>
 
 ---
 
