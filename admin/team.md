@@ -3,6 +3,8 @@
 
 ## Group Members:
 
+___
+
 Aditya:
 
 ___
@@ -41,8 +43,14 @@ ___
 
 Jason:
 
+___
+
 Josh:
 
+___
+
 Woosik:
+
+___
 
 Team Values:
