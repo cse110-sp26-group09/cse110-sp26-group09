@@ -62,42 +62,42 @@ ___
 ### Aditya Jadhav
 - [Github](https://github.com/AdityaJadhav17)
 - [Portfolio](https://adityajadhav17.github.io/)
-- Hobbies: Cooking, playing soccer, playing video games, and spending time with friends and family.
+- Hobbies: I like Cooking, playing soccer, playing video games, and spending time with friends and family.
+
+___
+
+### James Villanueva
+- [GitHub](https://github.com/JamesVillanueva-Dev)
+- [Portfolio](https://github.com/JamesVillanueva-Dev)
+- Hobbies: I like playing video games
 
 ___
 
 ### Alexis Navarrete
 - [Github](https://github.com/AlexNav28)
 - [Portfolio](Add link here)
-- Hobbies: [Add here]
+- Hobbies: I like go to the gym, play sim racing online, and try new coffee shops.
 
 ___
 
 ### Daniel Wu
 - [Github](https://github.com/dwu0501)
 - [Portfolio](Add link here)
-- Hobbies: [Add here]
+- Hobbies: I like to play some video games.
 
 ___
 
 ### Fahad Majidi
 - [Github](https://github.com/Slazki)
 - [Portfolio](https://www.linkedin.com/in/fahadmajidi)
-- Hobbies: Soccer, gaming, time with friends & family, playing with parrot, and watching shows/movies.
+- Hobbies: I like to play soccer, video games, spend some time with friends & family, playing with my parrot, and watching shows/movies.
   
 ___
 
 ### Hemendra Ande
 - [Github](https://github.com/draande)
 - [Portfolio](Add link here)
-- Hobbies: [Add here]
-
-___
-
-### Waleed Alghaithi
-- [Github](https://github.com/waleedA13)
-- [Portfolio](https://waleeda13.github.io/110_Lab_1/)
-- Hobbies: [Add here]
+- Hobbies: I love watching movies, anime, shows, hiking, and playing on da cinco (ps5).
   
 ___
 
@@ -108,25 +108,25 @@ ___
   
 ___
 
-### James Villanueva
-- [GitHub](https://github.com/JamesVillanueva-Dev)
-- [Portfolio](https://github.com/JamesVillanueva-Dev)
-- Hobbies: Playing video games
-
-___
-
 ### Jason Nguyen
 - [Github](https://github.com/J-rod-mech)
 - [Portfolio](Add link here)
-- Hobbies: Tennis, gaming, and cooking.
+- Hobbies: I like playing tennis, video games, and I also like to cook.
   
 ___
 
 ### Josh Victoria
 - [Github](https://github.com/Dez-catus)
 - [Portfolio](Add link here)
-- Hobbies: [Add here]
+- Hobbies: I really like to explore San Diego and find some new coffee spots.
 
+___
+
+### Waleed Alghaithi
+- [Github](https://github.com/waleedA13)
+- [Portfolio](https://waleeda13.github.io/110_Lab_1/)
+- Hobbies: I enjoy exploring new places, playing billiards, video games, hooping, and just chilling with my friends.
+  
 ___
 
 ### Woosik Kim
