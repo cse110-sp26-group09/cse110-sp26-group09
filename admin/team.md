@@ -94,17 +94,17 @@ ___
 
 ___
 
-### Hien Tran
-- [Github](https://github.com/tmhiennn)
-- [Portfolio](Add link here)
+### Waleed Alghaithi
+- [Github](https://github.com/waleedA13)
+- [Portfolio](https://waleeda13.github.io/110_Lab_1/)
 - Hobbies: [Add here]
   
 ___
 
 ### Hieu Le
 - [Github](https://github.com/hieule314)
-- [Portfolio](Add link here)
-- Hobbies: [Add here]
+- [Portfolio](https://www.linkedin.com/in/hieule314)
+- Fun Facts: I have two dogs, my favorite anime is One Piece, and i have been playing badminton for 7+ years.
   
 ___
 
@@ -118,7 +118,7 @@ ___
 ### Jason Nguyen
 - [Github](https://github.com/J-rod-mech)
 - [Portfolio](Add link here)
-- Hobbies: [Add here]
+- Hobbies: Tennis, gaming, and cooking.
   
 ___
 
@@ -132,6 +132,6 @@ ___
 ### Woosik Kim
 - [Github](https://github.com/woosik-study)
 - [Portfolio](Add link here)
-- Hobbies: [Add here]
+- Fun Facts/Hobbies: I like to go to gym and workout when i have a free time, I also like watching movies, and a fun fact about me is that I went to military and did a squad leader training session.
 
 ___
