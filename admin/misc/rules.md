@@ -185,7 +185,7 @@ By signing below, each team member acknowledges that they have read, understood,
 | Daniel | ____Daniel Wu____ | ____04/10/2026____ |
 | Fahad | ____Fahad Majidi____ | ____04/10/2026____ |
 | Hemendra | ____Hemendra Ande____ | ____04/10/2026____ |
-| Hien | ____Hien Tran____ | ____04/10/2026____ |
+| Waleed | ____Waleed Alghaithi____ | ____04/11/2026____ |
 | Hieu | ____Hieu Le____ | ____04/10/2026____ |
 | James | ____James Villanueva____ | ____04/10/2026____ |
 | Jason | ____Jason Nguyen____ | ____04/10/2026____ |
