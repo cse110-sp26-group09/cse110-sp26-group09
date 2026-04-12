@@ -68,7 +68,7 @@ ___
 
 ### James Villanueva
 - [GitHub](https://github.com/JamesVillanueva-Dev)
-- [Portfolio](https://github.com/JamesVillanueva-Dev)
+- [Portfolio](https://jamesvillanueva-dev.github.io/Portfolio/)
 - Hobbies: I like playing video games
 
 ___
