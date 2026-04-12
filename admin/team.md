@@ -75,7 +75,7 @@ ___
 
 ### Alexis Navarrete
 - [Github](https://github.com/AlexNav28)
-- [Portfolio](Add link here)
+- [Portfolio](http://www.linkedin.com/in/alexis-navarrete-62a9292b7)
 - Hobbies: I like go to the gym, play sim racing online, and try new coffee shops.
 
 ___
@@ -96,7 +96,7 @@ ___
 
 ### Hemendra Ande
 - [Github](https://github.com/draande)
-- [Portfolio](Add link here)
+- [Portfolio](https://www.linkedin.com/in/hemendra-ande-a27a9528a/)
 - Hobbies: I love watching movies, anime, shows, hiking, and playing on da cinco (ps5).
   
 ___
@@ -110,14 +110,14 @@ ___
 
 ### Jason Nguyen
 - [Github](https://github.com/J-rod-mech)
-- [Portfolio](Add link here)
+- [Portfolio](https://www.linkedin.com/in/jason-nguyen-jn1000/)
 - Hobbies: I like playing tennis, video games, and I also like to cook.
   
 ___
 
 ### Josh Victoria
 - [Github](https://github.com/Dez-catus)
-- [Portfolio](Add link here)
+- [Portfolio](https://www.linkedin.com/in/josh-victoria/)
 - Hobbies: I really like to explore San Diego and find some new coffee spots.
 
 ___
@@ -131,7 +131,7 @@ ___
 
 ### Woosik Kim
 - [Github](https://github.com/woosik-study)
-- [Portfolio](Add link here)
+- [Portfolio](https://www.linkedin.com/in/woosikkim-ucsd)
 - Fun Facts/Hobbies: I like to go to gym and workout when i have a free time, I also like watching movies, and a fun fact about me is that I went to military and did a squad leader training session.
 
 ___
