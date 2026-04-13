@@ -82,7 +82,7 @@ ___
 
 ### Daniel Wu
 - [Github](https://github.com/dwu0501)
-- [Portfolio](Add link here)
+- [Portfolio](https://www.linkedin.com/in/daniel-wu-2407b1256/))
 - Hobbies: I like to play some video games.
 
 ___
