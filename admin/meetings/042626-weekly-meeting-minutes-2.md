@@ -150,7 +150,7 @@ The purpose of this meeting is to discuss the logistics of the quarter-long proj
 
 ## 9. Next Meeting
 
-- **Date:** 05/08/2026  
+- **Date:** 05/01/2026  
 - **Time:** 2:00 PM  
 - **Location:** Geisel  
 
