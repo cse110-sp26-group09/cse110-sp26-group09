@@ -1,4 +1,4 @@
-# Meeting Minutes -- Akatsuki 4/27
+# Meeting Minutes - Akatsuki 4/27
 
 **Team Number:** Group 09\
 **Team Name:** Akatsuki\
