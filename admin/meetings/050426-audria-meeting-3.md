@@ -82,7 +82,7 @@ TA meeting to review team progress, discuss deliverables, and outline future tas
 2. Research and create user stories and personas  
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fdonetonic.com%2Fscrum-methodology%2F&ved=0CBUQjRxqFwoTCKCPsKTvopQDFQAAAAAdAAAAABAF&opi=89978449" width="400">
+  <img src="https://donetonic.com/wp-content/uploads/2022/11/Scrum-Process-Chart-1.svg" width="400">
 </p>
 
 ---
