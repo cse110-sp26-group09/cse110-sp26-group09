@@ -6,7 +6,7 @@
 **Date:** 5/7/26  
 **Start Time:** 6:25 PM
 **End Time:** 6:42 PM
-**Location:** After Class Catalyst 0125 
+**Location:** After Class Catalyst 0125\
 **Recorded By:** Hieu Le
 
 ---
