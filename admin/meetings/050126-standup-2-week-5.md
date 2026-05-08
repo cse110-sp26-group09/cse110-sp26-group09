@@ -1,7 +1,7 @@
 # Meeting Minutes - Akatsuki 4/27
 **Team Number:** Group 09\
 **Team Name:** Akatsuki\
-**Meeting Type:** Standup Meeting for first sprint
+**Meeting Type:** Standup Meeting for first sprint\
 **Date:** 5/01/26\
 **Start Time:** 2:00 PM\
 **End Time:** 2:39 PM\
