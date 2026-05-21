@@ -16,4 +16,4 @@ This README will be updated as we add code, tests, documentation, and other proj
 
 ## Videos
 - [Team Intro](admin/videos/teamintro.mp4)
-- [Team Statsu 1](admin/videos/statusvideo1.mp4)
+- [Team Status 1](admin/videos/statusvideo1.mp4) , [Youtube](https://youtu.be/9Bn4ElbA7Js)
