@@ -34,7 +34,7 @@
 
 ## **2\. Meeting Purpose**
 
-Standup Meeting
+Showcase current frontend progress and make adjustments to backend accordingly.
 
 ---
 
