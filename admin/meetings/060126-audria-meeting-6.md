@@ -2,7 +2,7 @@
 
 **Team Number:** Group 09  
  **Team Name:** Akatsuki  
- **Meeting Type:** Meeting with TA Audria 
+ **Meeting Type:** Meeting with TA Audria  
  **Date:** 6/1/26  
  **Start Time:** 7:00 PM  
  **End Time:** 7:20 PM  
