@@ -105,8 +105,8 @@ Review any final issues that need to be addressed, then prepare for repo cleanup
 | ----- | ----- | ----- | ----- |
 | Timezones | Waleed | 6/5/2026 | ----- |
 | Remaining Backend Issues | Jason | 6/5/2026 | ----- |
-| Remaining Frontend Issues | James, Hieu | 6/5/2026 | ----- |
-| Slides | Alexis, James | 6/5/2026 | ----- |
+| Remaining Frontend Issues | Hemendra, Hieu | 6/5/2026 | ----- |
+| Slides | Alexis, James, Fahad, Woosik | 6/5/2026 | ----- |
 | Repo Cleanup | Everyone else | 6/5/2026 | ----- |
 
 ---
